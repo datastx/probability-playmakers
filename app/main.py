@@ -7,8 +7,8 @@ st.write("Welcome to Probability Playmakers! Below you can fetch NFL schedules/s
 
 years = st.multiselect(
     "Select which NFL season(s) you want to load schedules for:",
-    options=list(range(2000, 2024)),    # Adjust range as desired
-    default=[2023]                      # Default selection
+    options=list(range(2000, 2025)),    # Adjust range as desired
+    default=[2024]                      # Default selection
 )
 
 

@@ -3,3 +3,5 @@ nfl_data_py
 pandas
 watchdog
 duckdb
+boto3
+python-dotenv
